@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Funciones Matemáticas</string>
+    <string name="numero_1">Número 1</string>
+    <string name="numero_2">Número 2</string>
+    <string name="suma">Suma</string>
+    <string name="resta">Resta</string>
+    <string name="division">División</string>
+    <string name="multiplicacion">Multiplicación</string>
+    <string name="resultado">Resultado</string>
+    <string name="volver">Volver</string>
+    <string name="campo_vacio">Ingresa un número.</string>
+    <string name="numero_invalido">Ingresa un número válido.</string>
+    <string name="division_cero">El divisor no puede ser cero.</string>
+    <string name="resultado_fuera_rango">El resultado es demasiado grande. Prueba con números más pequeños.</string>
+</resources>
